@@ -1,1 +1,0 @@
-# friendlywrt_device_s5p4418
